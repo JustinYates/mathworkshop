@@ -10,5 +10,10 @@ public class Main {
         System.out.println("5 * Math.pow(2, 5) - 4 = " + (5 *Math.pow(2, 5) - 4));
 
         System.out.println(10.3 % 5);
+        System.out.println("Math.random() * 10 = " + Math.random() *10);
+
+        System.out.println("10.l3 * 5)");
+        System.out.println()
+
     }
 }
